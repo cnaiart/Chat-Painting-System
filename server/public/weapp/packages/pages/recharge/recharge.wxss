@@ -1,0 +1,1 @@
+page{background-color:#fff}.task-center .tasks-title{padding:0 30rpx;height:88rpx;display:flex;align-items:center}.task-center .tasks-content{padding-bottom:20rpx}.task-center .tasks-content .tasks-item:not(:last-of-type){border-bottom:1px solid var(--color-light, #e5e5e5);margin-bottom:10rpx}

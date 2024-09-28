@@ -1,0 +1,1 @@
+.code.data-v-29c90796{transition:all .5s;-webkit-user-select:none;-moz-user-select:none;user-select:none;display:flex;justify-content:center;align-items:center;margin-right:20rpx;width:64rpx;height:64rpx;border-radius:8rpx;border:2rpx solid #dcdfe6}.code-active.data-v-29c90796{border:2rpx solid var(--color-primary);background-color:var(--color-primary-light-9)}

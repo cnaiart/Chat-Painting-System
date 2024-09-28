@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "卡密兑换",
+  "usingComponents": {
+    "u-notice-bar": "../../../uni_modules/vk-uview-ui/components/u-notice-bar/u-notice-bar",
+    "u-input": "../../../uni_modules/vk-uview-ui/components/u-input/u-input",
+    "u-button": "../../../uni_modules/vk-uview-ui/components/u-button/u-button",
+    "u-empty": "../../../uni_modules/vk-uview-ui/components/u-empty/u-empty",
+    "u-popup": "../../../uni_modules/vk-uview-ui/components/u-popup/u-popup",
+    "tabbar": "../../../components/tabbar/tabbar"
+  }
+}

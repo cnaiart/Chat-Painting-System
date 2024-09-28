@@ -1,0 +1,29 @@
+{
+    "name": "iflytekop/xfyun-core",
+    "description": "Xfyun Core Library",
+    "license": "Apache-2.0",
+    "keywords": [],
+    "require": {
+        "php": ">=7.1",
+        "guzzlehttp/guzzle": "^6.0|^7.0",
+        "guzzlehttp/psr7": "^1.2",
+        "psr/http-message": "1.0.*",
+        "textalk/websocket": "^1.5",
+        "monolog/monolog": "^2.6"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^6.5",
+        "wowo-zz/php-cc": "^1.0",
+        "symfony/yaml": "^3.0|^4.0|^5.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "IFlytek\\Xfyun\\Core\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "IFlytek\\Xfyun\\Core\\Tests\\": "tests"
+        }
+    }
+}

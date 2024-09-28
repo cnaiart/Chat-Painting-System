@@ -1,0 +1,21 @@
+{
+  "navigationBarTitleText": "开通会员",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "u-navbar": "../../../uni_modules/vk-uview-ui/components/u-navbar/u-navbar",
+    "u-sticky": "../../../uni_modules/vk-uview-ui/components/u-sticky/u-sticky",
+    "u-image": "../../../uni_modules/vk-uview-ui/components/u-image/u-image",
+    "u-empty": "../../../uni_modules/vk-uview-ui/components/u-empty/u-empty",
+    "price": "../../../components/price/price",
+    "u-icon": "../../../uni_modules/vk-uview-ui/components/u-icon/u-icon",
+    "u-radio": "../../../uni_modules/vk-uview-ui/components/u-radio/u-radio",
+    "u-radio-group": "../../../uni_modules/vk-uview-ui/components/u-radio-group/u-radio-group",
+    "u-rate": "../../../uni_modules/vk-uview-ui/components/u-rate/u-rate",
+    "u-button": "../../../uni_modules/vk-uview-ui/components/u-button/u-button",
+    "router-navigate": "../../../node-modules/uniapp-router-next/components/router-navigate/router-navigate",
+    "page-status": "../../../components/page-status/page-status",
+    "u-popup": "../../../uni_modules/vk-uview-ui/components/u-popup/u-popup",
+    "payment-check": "../../../components/payment/check",
+    "limit-pop": "./components/limitPop"
+  }
+}

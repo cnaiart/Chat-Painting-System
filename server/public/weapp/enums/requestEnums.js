@@ -1,0 +1,1 @@
+"use strict";var e=(e=>(e.GET="GET",e.POST="POST",e))(e||{}),t=(e=>(e[e.SUCCESS=1]="SUCCESS",e[e.FAILED=0]="FAILED",e[e.TOKEN_INVALID=-1]="TOKEN_INVALID",e))(t||{}),E=(e=>(e.ABORT="request:fail abort",e.TIMEOUT="request:fail timeout",e))(E||{});exports.RequestCodeEnum=t,exports.RequestErrMsgEnum=E,exports.RequestMethodsEnum=e;

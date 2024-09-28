@@ -1,0 +1,17 @@
+{
+  "navigationBarTitleText": "首页",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "model-picker": "../../components/model-picker/model-picker",
+    "u-icon": "../../uni_modules/vk-uview-ui/components/u-icon/u-icon",
+    "chat-scroll-view": "../../components/chat-scroll-view/chat-scroll-view",
+    "tabbar": "../../components/tabbar/tabbar",
+    "session-popup": "./components/session-popup",
+    "follow-official": "./components/follow-official",
+    "notice-popup": "../../components/notice-popup/notice-popup",
+    "problem-example": "./components/problem-example",
+    "session": "./components/session",
+    "problem-example-popup": "./components/problem-example-popup",
+    "mp-privacy-popup": "./components/mp-privacy-popup"
+  }
+}

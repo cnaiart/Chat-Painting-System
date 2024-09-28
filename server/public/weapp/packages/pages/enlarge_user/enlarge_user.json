@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "推广的用户",
+  "usingComponents": {
+    "u-image": "../../../uni_modules/vk-uview-ui/components/u-image/u-image"
+  }
+}

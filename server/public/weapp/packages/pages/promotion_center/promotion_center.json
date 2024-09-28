@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "推广中心",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "u-empty": "../../../uni_modules/vk-uview-ui/components/u-empty/u-empty",
+    "page-status": "../../../components/page-status/page-status",
+    "content": "./components/content",
+    "apply": "./components/apply"
+  }
+}

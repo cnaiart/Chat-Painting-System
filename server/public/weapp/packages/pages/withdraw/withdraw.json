@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "收益提现",
+  "usingComponents": {
+    "u-icon": "../../../uni_modules/vk-uview-ui/components/u-icon/u-icon",
+    "u-image": "../../../uni_modules/vk-uview-ui/components/u-image/u-image",
+    "u-button": "../../../uni_modules/vk-uview-ui/components/u-button/u-button",
+    "account-full": "./component/acount-full",
+    "uploader": "../../components/uploader/uploader"
+  }
+}

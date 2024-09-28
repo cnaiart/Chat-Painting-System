@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "u-image": "../../../../uni_modules/vk-uview-ui/components/u-image/u-image",
+    "router-navigate": "../../../../node-modules/uniapp-router-next/components/router-navigate/router-navigate"
+  }
+}

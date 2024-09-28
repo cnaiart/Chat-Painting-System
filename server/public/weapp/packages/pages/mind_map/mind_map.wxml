@@ -1,0 +1,1 @@
+<page-meta page-style="{{c}}"><navigation-bar front-color="{{a}}" background-color="{{b}}"/></page-meta><web-view src="{{d}}" bindmessage="{{e}}"/>

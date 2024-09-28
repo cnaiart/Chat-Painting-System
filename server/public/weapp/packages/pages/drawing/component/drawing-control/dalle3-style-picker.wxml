@@ -1,0 +1,1 @@
+<view class="text-base font-bold mt-_bl_40rpx_br_ data-v-510fe4ff"><label class="data-v-510fe4ff">风格选择</label></view><view class="mt-_bl_20rpx_br_ data-v-510fe4ff"><view wx:for="{{a}}" wx:for-item="item" wx:key="b" class="{{['style-option','data-v-510fe4ff',item.c&&'style-option__active']}}" bindtap="{{item.d}}">{{item.a}}</view></view>

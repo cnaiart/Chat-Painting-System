@@ -1,0 +1,13 @@
+{
+  "component": true,
+  "usingComponents": {
+    "u-icon": "../../../uni_modules/vk-uview-ui/components/u-icon/u-icon",
+    "u-input": "../../../uni_modules/vk-uview-ui/components/u-input/u-input",
+    "u-form-item": "../../../uni_modules/vk-uview-ui/components/u-form-item/u-form-item",
+    "u-verification-code": "../../../uni_modules/vk-uview-ui/components/u-verification-code/u-verification-code",
+    "router-navigate": "../../../node-modules/uniapp-router-next/components/router-navigate/router-navigate",
+    "u-form": "../../../uni_modules/vk-uview-ui/components/u-form/u-form",
+    "agreement": "../../../components/agreement/agreement",
+    "u-button": "../../../uni_modules/vk-uview-ui/components/u-button/u-button"
+  }
+}

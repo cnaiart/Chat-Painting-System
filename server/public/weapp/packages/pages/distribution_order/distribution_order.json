@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "分销订单",
+  "usingComponents": {
+    "u-avatar": "../../../uni_modules/vk-uview-ui/components/u-avatar/u-avatar",
+    "z-paging": "../../../node-modules/z-paging/components/z-paging/z-paging"
+  }
+}

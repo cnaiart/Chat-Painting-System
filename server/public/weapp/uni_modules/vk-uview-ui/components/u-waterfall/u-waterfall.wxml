@@ -1,0 +1,1 @@
+<view class="u-waterfall data-v-947d8ea5"><view id="u-left-column" class="u-column data-v-947d8ea5"><slot name="left"></slot></view><view id="u-right-column" class="u-column data-v-947d8ea5"><slot name="right"></slot></view></view>

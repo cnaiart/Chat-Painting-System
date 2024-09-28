@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "u-image": "../../../uni_modules/vk-uview-ui/components/u-image/u-image",
+    "u-button": "../../../uni_modules/vk-uview-ui/components/u-button/u-button"
+  }
+}

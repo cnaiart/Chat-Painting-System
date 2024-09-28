@@ -1,0 +1,85 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/ai_creation/ai_creation",
+    "pages/skills/skills",
+    "pages/app/app",
+    "pages/empty/empty",
+    "pages/user/user",
+    "pages/webview/webview",
+    "pages/login/login",
+    "uni_modules/vk-uview-ui/components/u-avatar-cropper/u-avatar-cropper"
+  ],
+  "subPackages": [
+    {
+      "root": "packages",
+      "pages": [
+        "pages/square/square",
+        "pages/drawing/drawing",
+        "pages/customer_service/customer_service",
+        "pages/user_set/user_set",
+        "pages/follow_official/follow_official",
+        "pages/task_center/task_center",
+        "pages/collection/collection",
+        "pages/chat/chat",
+        "pages/as_us/as_us",
+        "pages/agreement/agreement",
+        "pages/404/404",
+        "pages/register/register",
+        "pages/change_password/change_password",
+        "pages/forget_pwd/forget_pwd",
+        "pages/open_vip/open_vip",
+        "pages/feedback/feedback",
+        "pages/promotion_center/promotion_center",
+        "pages/withdraw/withdraw",
+        "pages/withdraw_record/withdraw_record",
+        "pages/distribution_order/distribution_order",
+        "pages/earnings_detail/earnings_detail",
+        "pages/team_fans/team_fans",
+        "pages/enlarge_user/enlarge_user",
+        "pages/invite_poster/invite_poster",
+        "pages/cancelaccount/cancelaccount",
+        "pages/article_list/article_list",
+        "pages/article_detail/article_detail",
+        "pages/create/create",
+        "pages/create_history/create_history",
+        "pages/recharge/recharge",
+        "pages/redeem_code/redeem_code",
+        "pages/mind_map/mind_map",
+        "pages/qrcode/qrcode"
+      ]
+    }
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "",
+    "navigationBarBackgroundColor": "#ffffff",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/ai_creation/ai_creation",
+        "text": "创作"
+      },
+      {
+        "pagePath": "pages/skills/skills",
+        "text": "技能"
+      },
+      {
+        "pagePath": "pages/app/app",
+        "text": "应用"
+      },
+      {
+        "pagePath": "pages/user/user",
+        "text": "我的"
+      }
+    ]
+  },
+  "__usePrivacyCheck__": true,
+  "usingComponents": {}
+}

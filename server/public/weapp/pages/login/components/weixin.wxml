@@ -1,0 +1,1 @@
+<view class="my-_bl_30rpx_br_"><u-button wx:if="{{b}}" u-s="{{['d']}}" bindclick="{{a}}" u-i="17e2d85c-0" bind:__l="__l" u-p="{{b}}"><text>一键快捷登录</text></u-button></view><view class="py-_bl_30rpx_br_ flex justify-center"><agreement class="r" u-r="agreementRef" u-i="17e2d85c-1" bind:__l="__l"/></view>

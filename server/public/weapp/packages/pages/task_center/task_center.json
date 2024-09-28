@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "任务中心",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "u-icon": "../../../uni_modules/vk-uview-ui/components/u-icon/u-icon",
+    "u-button": "../../../uni_modules/vk-uview-ui/components/u-button/u-button",
+    "u-empty": "../../../uni_modules/vk-uview-ui/components/u-empty/u-empty",
+    "page-status": "../../../components/page-status/page-status",
+    "tabbar": "../../../components/tabbar/tabbar"
+  }
+}

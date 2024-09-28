@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "model-picker": "../../../components/model-picker/model-picker",
+    "chat-record-item": "../../../components/chat-record-item/chat-record-item",
+    "chat-scroll-view": "../../../components/chat-scroll-view/chat-scroll-view"
+  }
+}

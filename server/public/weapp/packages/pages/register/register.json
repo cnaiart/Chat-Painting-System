@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "注册",
+  "usingComponents": {
+    "u-tabs": "../../../uni_modules/vk-uview-ui/components/u-tabs/u-tabs",
+    "u-input": "../../../uni_modules/vk-uview-ui/components/u-input/u-input",
+    "u-form-item": "../../../uni_modules/vk-uview-ui/components/u-form-item/u-form-item",
+    "u-verification-code": "../../../uni_modules/vk-uview-ui/components/u-verification-code/u-verification-code",
+    "u-form": "../../../uni_modules/vk-uview-ui/components/u-form/u-form",
+    "agreement": "../../../components/agreement/agreement",
+    "u-button": "../../../uni_modules/vk-uview-ui/components/u-button/u-button"
+  }
+}

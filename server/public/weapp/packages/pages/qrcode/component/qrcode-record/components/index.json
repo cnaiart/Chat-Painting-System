@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "in-progress": "./in-progress",
+    "success": "./success",
+    "fail": "./fail"
+  }
+}

@@ -1,0 +1,1 @@
+<page-meta page-style="{{c}}"><navigation-bar front-color="{{a}}" background-color="{{b}}"/></page-meta><view class="customer-service"><view wx:for="{{d}}" wx:for-item="item" wx:key="d"><block wx:if="{{item.a}}"><w-customer-service wx:if="{{item.c}}" u-i="{{item.b}}" bind:__l="__l" u-p="{{item.c}}"/></block></view><tabbar u-i="1e8e3fa0-1" bind:__l="__l"/></view>

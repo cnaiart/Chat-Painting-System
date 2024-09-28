@@ -1,0 +1,1 @@
+import{d as r}from"./l-painter.e1bc292c.js";import{_ as e}from"./_plugin-vue_export-helper.1b428a4d.js";const n=e({name:"lime-painter-image",mixins:[r("painter")],props:{css:[String,Object],src:String},data:()=>({type:"image",el:{css:{},src:null}})},[["render",function(r,e,n,t,i,s){return null}]]);export{n as _};

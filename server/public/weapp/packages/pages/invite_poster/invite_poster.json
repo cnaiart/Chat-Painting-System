@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "邀请海报",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "u-loading": "../../../uni_modules/vk-uview-ui/components/u-loading/u-loading",
+    "u-image": "../../../uni_modules/vk-uview-ui/components/u-image/u-image",
+    "u-button": "../../../uni_modules/vk-uview-ui/components/u-button/u-button",
+    "page-status": "../../../components/page-status/page-status",
+    "invite-poster": "./component/invite-poster",
+    "u-empty": "../../../uni_modules/vk-uview-ui/components/u-empty/u-empty"
+  }
+}

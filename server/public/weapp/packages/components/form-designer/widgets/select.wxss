@@ -1,0 +1,1 @@
+.widget-select.data-v-10bbb22f{border-radius:10rpx;padding:10rpx 20rpx;flex:1;display:flex;align-items:center;position:relative;background-color:var(--color-bg, #f6f6f6)}.widget-select .u-input.data-v-10bbb22f .u-input__input{font-size:28rpx}.widget-select .arrow-icon.data-v-10bbb22f{transition:all .3s}.widget-select .arrow-icon--top.data-v-10bbb22f{transform:rotate(-180deg)}

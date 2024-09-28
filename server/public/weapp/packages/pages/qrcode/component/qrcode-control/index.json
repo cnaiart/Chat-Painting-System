@@ -1,0 +1,19 @@
+{
+  "component": true,
+  "usingComponents": {
+    "l-textarea": "../../../../../components/l-textarea/l-textarea",
+    "u-button": "../../../../../uni_modules/vk-uview-ui/components/u-button/u-button",
+    "generation-picker": "./generation-picker",
+    "generation-type": "./generation-type",
+    "generation-mode": "./generation-mode",
+    "qrcode-display": "./components/qrcode-display",
+    "mewx-template": "./components/mewx-template",
+    "zhishuyun-template": "./components/zhishuyun-template",
+    "custom-keyword": "./components/custom-keyword",
+    "custom-model-picker": "./components/custom-model-picker",
+    "custom-version-picker": "./components/custom-version-picker",
+    "custom-picture-size": "./components/custom-picture-size",
+    "custom-code-type": "./components/custom-code-type",
+    "pixel-style-type": "./components/pixel-style-type"
+  }
+}

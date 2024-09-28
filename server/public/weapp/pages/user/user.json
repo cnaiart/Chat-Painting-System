@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "个人中心",
+  "navigationStyle": "custom",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "w-user-info": "../../components/widgets/user-info/user-info",
+    "w-user-vip": "../../components/widgets/user-vip/user-vip",
+    "w-my-service": "../../components/widgets/my-service/my-service",
+    "w-user-banner": "../../components/widgets/user-banner/user-banner",
+    "w-user-bottom": "../../components/widgets/user-bottom/user-bottom",
+    "tabbar": "../../components/tabbar/tabbar"
+  }
+}

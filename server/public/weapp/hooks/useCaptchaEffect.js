@@ -1,0 +1,1 @@
+"use strict";const e=require("../common/vendor.js"),a=require("../api/account.js");exports.useCaptchaEffect=()=>{const c=e.ref(""),t=e.ref(""),o=async()=>{try{const e=await a.captcha();c.value=e.key,t.value=e.image}catch(e){console.log("获取图形码失败=>",e)}};return e.onMounted(o),{captchaKey:c,captchaImage:t,getCaptchaFn:o}};

@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "mp-html": "../../uni_modules/mp-html/components/mp-html/mp-html",
+    "u-button": "../../uni_modules/vk-uview-ui/components/u-button/u-button",
+    "u-popup": "../../uni_modules/vk-uview-ui/components/u-popup/u-popup"
+  }
+}

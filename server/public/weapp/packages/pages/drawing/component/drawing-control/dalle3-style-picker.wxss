@@ -1,0 +1,1 @@
+.style-option.data-v-510fe4ff:nth-child(2n){margin-left:20rpx}.style-option.data-v-510fe4ff{display:inline-block;cursor:pointer;width:200rpx;padding:12rpx 0;text-align:center;border-radius:8rpx;border:1px solid #e5e5e5}.style-option__active.data-v-510fe4ff{color:var(--color-primary);border:1px solid var(--color-primary);background-color:var(--color-primary-light-9)}

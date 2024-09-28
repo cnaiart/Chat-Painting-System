@@ -1,0 +1,1 @@
+<view class="card-container"><block wx:if="{{a}}"><in-progress u-i="3076a188-0" bind:__l="__l"></in-progress></block><block wx:if="{{b}}"><success wx:if="{{c}}" u-i="3076a188-1" bind:__l="__l" u-p="{{c}}"></success></block><block wx:if="{{d}}"><fail wx:if="{{f}}" id="{{e}}" u-i="3076a188-2" bind:__l="__l" u-p="{{f}}"></fail></block></view>

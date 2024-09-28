@@ -1,0 +1,1 @@
+"use strict";const e=require("../../../common/vendor.js"),t=require("../../../common/assets.js");if(!Array){e.resolveComponent("u-image")()}Math;const o=e.defineComponent({__name:"enlarge_user",setup:o=>(o,r)=>({a:o.$theme.navColor,b:o.$theme.navBgColor,c:o.$theme.pageStyle,d:e.p({width:"80",height:"80",src:t._imports_0$1,alt:""})})});wx.createPage(o);

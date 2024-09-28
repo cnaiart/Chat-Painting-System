@@ -1,0 +1,1 @@
+"use strict";const e=require("../utils/request/index.js");exports.checkRedeemCode=function(r){return e.request.get({url:"/cardCode/checkCard",data:r})},exports.useRedeemCode=function(r){return e.request.post({url:"/cardCode/useCard",data:r})};

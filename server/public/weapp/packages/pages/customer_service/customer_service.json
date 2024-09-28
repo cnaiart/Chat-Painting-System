@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "联系客服",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "w-customer-service": "../../../components/widgets/customer-service/customer-service",
+    "tabbar": "../../../components/tabbar/tabbar"
+  }
+}

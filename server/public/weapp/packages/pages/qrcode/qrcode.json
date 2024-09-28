@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "艺术二维码",
+  "usingComponents": {
+    "u-loading": "../../../uni_modules/vk-uview-ui/components/u-loading/u-loading",
+    "tabbar": "../../../components/tabbar/tabbar",
+    "u-empty": "../../../uni_modules/vk-uview-ui/components/u-empty/u-empty",
+    "qrcode-record": "./component/qrcode-record/index",
+    "qrcode-control": "./component/qrcode-control/index"
+  }
+}

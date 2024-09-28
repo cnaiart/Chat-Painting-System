@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "u-empty": "../../../uni_modules/vk-uview-ui/components/u-empty/u-empty",
+    "u-popup": "../../../uni_modules/vk-uview-ui/components/u-popup/u-popup"
+  }
+}

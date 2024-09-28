@@ -1,0 +1,1 @@
+"use strict";const e=require("../../../../../../common/vendor.js"),o={};if(!Array){e.resolveComponent("u-loading")()}Math;const r=e._export_sfc(o,[["render",function(o,r){return{a:e.p({mode:"circle",color:o.$theme.primaryColor,size:"80"})}}]]);wx.createComponent(r);

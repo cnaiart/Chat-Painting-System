@@ -1,0 +1,9 @@
+{
+  "component": true,
+  "usingComponents": {
+    "u-lazy-load": "../../../../uni_modules/vk-uview-ui/components/u-lazy-load/u-lazy-load",
+    "u-icon": "../../../../uni_modules/vk-uview-ui/components/u-icon/u-icon",
+    "u-waterfall": "../../../../uni_modules/vk-uview-ui/components/u-waterfall/u-waterfall",
+    "z-paging": "../../../../node-modules/z-paging/components/z-paging/z-paging"
+  }
+}

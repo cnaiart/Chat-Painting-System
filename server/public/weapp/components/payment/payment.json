@@ -1,0 +1,14 @@
+{
+  "component": true,
+  "usingComponents": {
+    "u-empty": "../../uni_modules/vk-uview-ui/components/u-empty/u-empty",
+    "u-icon": "../../uni_modules/vk-uview-ui/components/u-icon/u-icon",
+    "u-radio": "../../uni_modules/vk-uview-ui/components/u-radio/u-radio",
+    "u-radio-group": "../../uni_modules/vk-uview-ui/components/u-radio-group/u-radio-group",
+    "price": "../price/price",
+    "u-button": "../../uni_modules/vk-uview-ui/components/u-button/u-button",
+    "page-status": "../page-status/page-status",
+    "u-popup": "../../uni_modules/vk-uview-ui/components/u-popup/u-popup",
+    "payment-check": "./check"
+  }
+}

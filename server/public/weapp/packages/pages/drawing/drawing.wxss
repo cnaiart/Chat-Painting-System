@@ -1,0 +1,1 @@
+page{height:100%}.drawing-container{display:flex;flex-direction:column;flex:1;height:100%;background-color:var(--color-white, #ffffff)}.drawing-container .drawing-content{flex:1;min-height:0}.safe-area-inset-bottom.data-v-e2225ad5{padding-bottom:constant(safe-area-inset-bottom);padding-bottom:env(safe-area-inset-bottom)}

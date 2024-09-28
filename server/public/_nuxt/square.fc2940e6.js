@@ -1,0 +1,1 @@
+function e(r){return $request.get({url:"/draw_square/lists",params:r})}function a(){return $request.get({url:"/draw_square/categoryLists"})}function s(r){return $request.post({url:"/draw_square/add",params:r})}function t(r){return $request.post({url:"/draw_square/praise",params:r})}export{e as a,t as d,a as g,s};

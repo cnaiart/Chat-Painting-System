@@ -1,0 +1,1 @@
+<view class="widget-radio data-v-7dba6fb8"><view class="radio-group data-v-7dba6fb8"><view wx:for="{{a}}" wx:for-item="item" wx:key="b" bindtap="{{item.c}}" class="{{['radio-item','data-v-7dba6fb8',item.d&&'radio-item--active']}}">{{item.a}}</view></view></view>

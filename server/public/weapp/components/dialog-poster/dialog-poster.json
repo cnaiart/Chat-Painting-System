@@ -1,0 +1,11 @@
+{
+  "component": true,
+  "usingComponents": {
+    "l-painter-image": "../../uni_modules/lime-painter/components/l-painter-image/l-painter-image",
+    "l-painter-view": "../../uni_modules/lime-painter/components/l-painter-view/l-painter-view",
+    "l-painter-text": "../../uni_modules/lime-painter/components/l-painter-text/l-painter-text",
+    "l-painter": "../../uni_modules/lime-painter/components/l-painter/l-painter",
+    "u-button": "../../uni_modules/vk-uview-ui/components/u-button/u-button",
+    "u-popup": "../../uni_modules/vk-uview-ui/components/u-popup/u-popup"
+  }
+}

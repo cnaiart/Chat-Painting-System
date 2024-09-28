@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "AI绘图",
+  "enablePullDownRefresh": false,
+  "disableScroll": true,
+  "usingComponents": {
+    "u-empty": "../../../uni_modules/vk-uview-ui/components/u-empty/u-empty",
+    "tabbar": "../../../components/tabbar/tabbar",
+    "drawing-record": "./component/drawing-record/index",
+    "drawing-control": "./component/drawing-control/index"
+  }
+}

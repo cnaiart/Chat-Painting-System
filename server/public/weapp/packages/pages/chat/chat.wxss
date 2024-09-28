@@ -1,0 +1,1 @@
+page{background-color:var(--color-white, #ffffff);height:100%;overflow:hidden}.chat{height:100%;display:flex;flex-direction:column}

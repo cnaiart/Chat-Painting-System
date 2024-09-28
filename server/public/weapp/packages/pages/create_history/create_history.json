@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "创作历史",
+  "usingComponents": {
+    "u-image": "../../../uni_modules/vk-uview-ui/components/u-image/u-image",
+    "z-paging": "../../../node-modules/z-paging/components/z-paging/z-paging",
+    "u-popup": "../../../uni_modules/vk-uview-ui/components/u-popup/u-popup",
+    "creation-history-item": "../../components/creation-history-item/creation-history-item"
+  }
+}

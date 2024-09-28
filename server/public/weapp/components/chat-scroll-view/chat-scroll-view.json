@@ -1,0 +1,16 @@
+{
+  "component": true,
+  "usingComponents": {
+    "chat-record-item": "../chat-record-item/chat-record-item",
+    "u-icon": "../../uni_modules/vk-uview-ui/components/u-icon/u-icon",
+    "network-switch": "../network-switch/network-switch",
+    "u-input": "../../uni_modules/vk-uview-ui/components/u-input/u-input",
+    "u-button": "../../uni_modules/vk-uview-ui/components/u-button/u-button",
+    "z-paging": "../../node-modules/z-paging/components/z-paging/z-paging",
+    "guided-popup": "../guided-popup/guided-popup",
+    "recorder": "../recorder/recorder",
+    "dialog-poster": "../dialog-poster/dialog-poster",
+    "dragon-button": "../dragon-button/dragon-button",
+    "online-voice": "./components/online-voice"
+  }
+}

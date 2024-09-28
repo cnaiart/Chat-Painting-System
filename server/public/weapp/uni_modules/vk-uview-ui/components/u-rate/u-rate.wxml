@@ -1,0 +1,1 @@
+<view class="u-rate data-v-574b1f2e" id="{{c}}" catchtouchmove="{{d}}"><view wx:for="{{a}}" wx:for-item="item" wx:key="d" class="{{['u-star-wrap','data-v-574b1f2e',b]}}"><u-icon wx:if="{{item.c}}" class="data-v-574b1f2e" bindclick="{{item.a}}" u-i="{{item.b}}" bind:__l="__l" u-p="{{item.c}}"></u-icon></view></view>

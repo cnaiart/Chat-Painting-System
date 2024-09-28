@@ -1,0 +1,888 @@
+{
+    "common": [
+        {
+            "default_guide_scale": 7.5,
+            "engine": "default_dreamer_diffusion",
+            "group_name": "通用设计",
+            "id": 0,
+            "is_color_enhance": false,
+            "poster": "https://yijian-painting-prod.cdn.bcebos.com/static/styles/style31.png",
+            "text": "智能",
+            "value": ""
+        },
+        {
+            "default_guide_scale": 7.5,
+            "engine": "stable_diffusion",
+            "group_name": "通用设计",
+            "id": 1,
+            "is_color_enhance": false,
+            "poster": "https://yijian-painting-prod.cdn.bcebos.com/static/styles/style31.png",
+            "text": "不限定",
+            "value": ""
+        },
+        {
+            "default_guide_scale": 7.5,
+            "engine": "vinteprotogenmixV10_diffusion",
+            "group_name": "通用设计",
+            "id": 2,
+            "is_color_enhance": false,
+            "poster": "https://yijian-painting-prod.cdn.bcebos.com/static/styles/45.jpg",
+            "text": "六边形战士",
+            "value": ""
+        },
+        {
+            "default_guide_scale": 7.5,
+            "engine": "mid_stable_diffusion",
+            "group_name": "通用设计",
+            "id": 3,
+            "is_color_enhance": false,
+            "poster": "https://yijian-painting-prod.cdn.bcebos.com/static/styles/style26.png",
+            "text": "艺术感强化",
+            "value": ""
+        },
+        {
+            "default_guide_scale": 7.5,
+            "engine": "redshift_novelai_sd_merge_diffusion",
+            "group_name": "通用设计",
+            "id": 4,
+            "is_color_enhance": false,
+            "poster": "https://yijian-painting-prod.cdn.bcebos.com/static/styles/style25.png",
+            "text": "3D建模风格",
+            "value": ""
+        },
+        {
+            "default_guide_scale": 7.5,
+            "engine": "stable_diffusion",
+            "group_name": "通用设计",
+            "id": 5,
+            "is_color_enhance": false,
+            "poster": "https://yijian-painting-prod.cdn.bcebos.com/static/styles/style1.png",
+            "text": "油画",
+            "value": " very detailed oil painting, oil on canvas"
+        },
+        {
+            "default_guide_scale": 7.5,
+            "engine": "stable_diffusion",
+            "group_name": "通用设计",
+            "id": 6,
+            "is_color_enhance": false,
+            "poster": "https://yijian-painting-prod.cdn.bcebos.com/static/styles/style3.png",
+            "text": "虚幻引擎渲染",
+            "value": " unreal engine render, 8k"
+        },
+        {
+            "default_guide_scale": 7.5,
+            "engine": "stable_diffusion",
+            "group_name": "通用设计",
+            "id": 7,
+            "is_color_enhance": false,
+            "poster": "https://yijian-painting-prod.cdn.bcebos.com/static/styles/style4.png",
+            "text": "铅笔素描",
+            "value": " milt kahl pencil sketch"
+        },
+        {
+            "default_guide_scale": 7.5,
+            "engine": "stable_diffusion",
+            "group_name": "通用设计",
+            "id": 8,
+            "is_color_enhance": false,
+            "poster": "https://yijian-painting-prod.cdn.bcebos.com/static/styles/style5.png",
+            "text": "水彩绘画",
+            "value": " in watercolor gouache detailed paintings, insanely detail"
+        },
+        {
+            "default_guide_scale": 7.5,
+            "engine": "stable_diffusion",
+            "group_name": "通用设计",
+            "id": 9,
+            "is_color_enhance": false,
+            "poster": "https://yijian-painting-prod.cdn.bcebos.com/static/styles/style7.png",
+            "text": "1950年代纸浆科幻封面",
+            "value": " style of 1950s pulp sci-fi cover"
+        },
+        {
+            "default_guide_scale": 7.5,
+            "engine": "stable_diffusion",
+            "group_name": "通用设计",
+            "id": 10,
+            "is_color_enhance": false,
+            "poster": "https://yijian-painting-prod.cdn.bcebos.com/static/styles/style17.png",
+            "text": "新海诚",
+            "value": " by makoto shinkai"
+        },
+        {
+            "default_guide_scale": 7.5,
+            "engine": "stable_diffusion",
+            "group_name": "通用设计",
+            "id": 11,
+            "is_color_enhance": false,
+            "poster": "https://yijian-painting-prod.cdn.bcebos.com/static/styles/style18.png",
+            "text": "倪传婧",
+            "value": " by victo ngai"
+        },
+        {
+            "default_guide_scale": 7.5,
+            "engine": "stable_diffusion",
+            "group_name": "通用设计",
+            "id": 12,
+            "is_color_enhance": false,
+            "poster": "https://yijian-painting-prod.cdn.bcebos.com/static/styles/style19.png",
+            "text": "像素画",
+            "value": " 64-bit pixel art"
+        },
+        {
+            "default_guide_scale": 7.5,
+            "engine": "stable_diffusion",
+            "group_name": "通用设计",
+            "id": 13,
+            "is_color_enhance": false,
+            "poster": "https://yijian-painting-prod.cdn.bcebos.com/static/styles/style20.png",
+            "text": "中国画",
+            "value": " chinese ink-wash painting style"
+        },
+        {
+            "default_guide_scale": 7.5,
+            "engine": "stable_diffusion",
+            "group_name": "通用设计",
+            "id": 14,
+            "is_color_enhance": false,
+            "poster": "https://yijian-painting-prod.cdn.bcebos.com/static/styles/style21.png",
+            "text": "赛博朋克",
+            "value": " hyper realistic cyberpunk style"
+        },
+        {
+            "default_guide_scale": 7.5,
+            "engine": "stable_diffusion",
+            "group_name": "通用设计",
+            "id": 15,
+            "is_color_enhance": false,
+            "poster": "https://yijian-painting-prod.cdn.bcebos.com/static/styles/style28.png",
+            "text": "吉卜力",
+            "value": " artwork by studio ghibli, lighting, clear focus, very coherent, high detailed"
+        },
+        {
+            "default_guide_scale": 7.5,
+            "engine": "stable_diffusion",
+            "group_name": "通用设计",
+            "id": 16,
+            "is_color_enhance": false,
+            "poster": "https://yijian-painting-prod.cdn.bcebos.com/static/styles/style29.png",
+            "text": "蒸汽波",
+            "value": " vaporwave arcade, 4k, ultra realistic, award winning photograph"
+        },
+        {
+            "default_guide_scale": 7.5,
+            "engine": "stable_diffusion",
+            "group_name": "通用设计",
+            "id": 17,
+            "is_color_enhance": false,
+            "poster": "https://yijian-painting-prod.cdn.bcebos.com/static/styles/style30.png",
+            "text": "印象主义",
+            "value": " in claude monet style"
+        }
+    ],
+    "cartoon": [
+        {
+            "default_guide_scale": 11,
+            "engine": "anything4_diffusion",
+            "group_name": "动漫设计",
+            "id": 18,
+            "is_color_enhance": true,
+            "poster": "https://yijian-painting-prod.cdn.bcebos.com/static/styles/41.jpg",
+            "text": "新动漫beta-默认",
+            "value": ""
+        },
+        {
+            "default_guide_scale": 11,
+            "engine": "anything4_diffusion",
+            "group_name": "动漫设计",
+            "id": 19,
+            "is_color_enhance": true,
+            "poster": "https://yijian-painting-prod.cdn.bcebos.com/static/styles/53.jpg",
+            "text": "新动漫beta-动漫线稿",
+            "value": " <lora:animeLineartStyle_v20Offset:1>"
+        },
+        {
+            "default_guide_scale": 11,
+            "engine": "anything4_diffusion",
+            "group_name": "动漫设计",
+            "id": 20,
+            "is_color_enhance": true,
+            "poster": "https://yijian-painting-prod.cdn.bcebos.com/static/styles/54.jpg",
+            "text": "新动漫beta-gacha女孩",
+            "value": " <lora:gachaSplashLORA_gachaSplashFarShot:0.9>"
+        },
+        {
+            "default_guide_scale": 11,
+            "engine": "anything4_diffusion",
+            "group_name": "动漫设计",
+            "id": 21,
+            "is_color_enhance": true,
+            "poster": "https://yijian-painting-prod.cdn.bcebos.com/static/styles/55.jpg",
+            "text": "新动漫beta-新海诚",
+            "value": " <lora:makotoShinkaiSubstyles_offset:1>"
+        },
+        {
+            "default_guide_scale": 11,
+            "engine": "anything4_diffusion",
+            "group_name": "动漫设计",
+            "id": 22,
+            "is_color_enhance": true,
+            "poster": "https://yijian-painting-prod.cdn.bcebos.com/static/styles/59.jpg",
+            "text": "新动漫beta-沁彩",
+            "value": " <lora:Colorwater_v4:0.9>"
+        },
+        {
+            "default_guide_scale": 11,
+            "engine": "anything4_diffusion",
+            "group_name": "动漫设计",
+            "id": 23,
+            "is_color_enhance": true,
+            "poster": "https://yijian-painting-prod.cdn.bcebos.com/static/styles/60.jpg",
+            "text": "新动漫beta-吉卜力",
+            "value": " <lora:studioGhibliStyle_offset:1>"
+        },
+        {
+            "default_guide_scale": 11,
+            "engine": "anything4_diffusion",
+            "group_name": "动漫设计",
+            "id": 24,
+            "is_color_enhance": true,
+            "poster": "https://yijian-painting-prod.cdn.bcebos.com/static/styles/61.jpg",
+            "text": "新动漫beta-Q版",
+            "value": " <lora:maplestoryStyle_v20:0.8>"
+        },
+        {
+            "default_guide_scale": 11,
+            "engine": "anything4_diffusion",
+            "group_name": "动漫设计",
+            "id": 25,
+            "is_color_enhance": true,
+            "poster": "https://yijian-painting-prod.cdn.bcebos.com/static/styles/62.jpg",
+            "text": "新动漫beta-可爱屁",
+            "value": " <lora:cutescrap05v_cutescrap3:0.8>"
+        },
+        {
+            "default_guide_scale": 11,
+            "engine": "anything4_diffusion",
+            "group_name": "动漫设计",
+            "id": 26,
+            "is_color_enhance": true,
+            "poster": "https://yijian-painting-prod.cdn.bcebos.com/static/styles/66.jpg",
+            "text": "新动漫beta-塔罗牌",
+            "value": " <lora:animeTarotCardArtStyleLora_v20Offset:0.8>"
+        },
+        {
+            "default_guide_scale": 11,
+            "engine": "anything4_diffusion",
+            "group_name": "动漫设计",
+            "id": 27,
+            "is_color_enhance": true,
+            "poster": "https://yijian-painting-prod.cdn.bcebos.com/static/styles/67.jpg",
+            "text": "新动漫beta-暗夜光影",
+            "value": " <lora:lightAndShadow_v10:0.8>"
+        },
+        {
+            "default_guide_scale": 11,
+            "engine": "anything4_diffusion",
+            "group_name": "动漫设计",
+            "id": 28,
+            "is_color_enhance": true,
+            "poster": "https://yijian-painting-prod.cdn.bcebos.com/static/styles/68.jpg",
+            "text": "新动漫beta-实用光影",
+            "value": " <lora:sunAndShadow_v10:0.8>"
+        },
+        {
+            "default_guide_scale": 11,
+            "engine": "anything4_diffusion",
+            "group_name": "动漫设计",
+            "id": 29,
+            "is_color_enhance": true,
+            "poster": "https://yijian-painting-prod.cdn.bcebos.com/static/styles/69.jpg",
+            "text": "新动漫beta-90年代风",
+            "value": " <lora:1990sAnimeStyleLora_1:0.6>"
+        },
+        {
+            "default_guide_scale": 11,
+            "engine": "anything4_diffusion",
+            "group_name": "动漫设计",
+            "id": 30,
+            "is_color_enhance": true,
+            "poster": "https://yijian-painting-prod.cdn.bcebos.com/static/styles/70.jpg",
+            "text": "新动漫beta-粗线条漫画",
+            "value": " <lora:thickerLinesAnimeStyle_loraVersion:1>"
+        },
+        {
+            "default_guide_scale": 11,
+            "engine": "anything4_diffusion",
+            "group_name": "动漫设计",
+            "id": 31,
+            "is_color_enhance": true,
+            "poster": "https://yijian-painting-prod.cdn.bcebos.com/static/styles/75.jpg",
+            "text": "新动漫beta-小人书",
+            "value": " <lora:Xiaorenshu_v10:0.9>"
+        },
+        {
+            "default_guide_scale": 11,
+            "engine": "anything4_diffusion",
+            "group_name": "动漫设计",
+            "id": 32,
+            "is_color_enhance": true,
+            "poster": "https://yijian-painting-prod.cdn.bcebos.com/static/styles/76.jpg",
+            "text": "新动漫beta-中国风",
+            "value": " <lora:loraGuofeng2Lora_v20Lora:0.8>"
+        },
+        {
+            "default_guide_scale": 11,
+            "engine": "anything4_diffusion",
+            "group_name": "动漫设计",
+            "id": 33,
+            "is_color_enhance": true,
+            "poster": "https://yijian-painting-prod.cdn.bcebos.com/static/styles/103.jpg",
+            "text": "新动漫beta-极简动漫",
+            "value": " <lora:minimalistAnimeStyle_v10:0.9>"
+        },
+        {
+            "default_guide_scale": 11,
+            "engine": "anything4_diffusion",
+            "group_name": "动漫设计",
+            "id": 34,
+            "is_color_enhance": true,
+            "poster": "https://yijian-painting-prod.cdn.bcebos.com/static/styles/105.jpg",
+            "text": "新动漫beta-彩墨少女",
+            "value": " <lora:quicksketch_v1:1>"
+        },
+        {
+            "default_guide_scale": 11,
+            "engine": "counterfeit_diffusion",
+            "group_name": "动漫设计",
+            "id": 35,
+            "is_color_enhance": true,
+            "poster": "https://yijian-painting-prod.cdn.bcebos.com/static/styles/79.jpg",
+            "text": "清新动漫-默认",
+            "value": ""
+        },
+        {
+            "default_guide_scale": 11,
+            "engine": "counterfeit_diffusion",
+            "group_name": "动漫设计",
+            "id": 36,
+            "is_color_enhance": true,
+            "poster": "https://yijian-painting-prod.cdn.bcebos.com/static/styles/80.jpg",
+            "text": "清新动漫-手办",
+            "value": " <lora:figmaAnimeFigures_figma:1>"
+        },
+        {
+            "default_guide_scale": 11,
+            "engine": "counterfeit_diffusion",
+            "group_name": "动漫设计",
+            "id": 37,
+            "is_color_enhance": true,
+            "poster": "https://yijian-painting-prod.cdn.bcebos.com/static/styles/90.jpg",
+            "text": "清新动漫-轻线条",
+            "value": " <lora:lightlineArtLora_v10:0.6>"
+        },
+        {
+            "default_guide_scale": 11,
+            "engine": "counterfeit_diffusion",
+            "group_name": "动漫设计",
+            "id": 38,
+            "is_color_enhance": true,
+            "poster": "https://yijian-painting-prod.cdn.bcebos.com/static/styles/54.jpg",
+            "text": "清新动漫-gacha女孩",
+            "value": " <lora:gachaSplashLORA_gachaSplashFarShot:0.9>"
+        },
+        {
+            "default_guide_scale": 11,
+            "engine": "counterfeit_diffusion",
+            "group_name": "动漫设计",
+            "id": 39,
+            "is_color_enhance": true,
+            "poster": "https://yijian-painting-prod.cdn.bcebos.com/static/styles/110.jpg",
+            "text": "清新动漫-古色古香",
+            "value": " <lora:miaobishenghua_v10:1>"
+        },
+        {
+            "default_guide_scale": 11,
+            "engine": "acgn_diffusion",
+            "group_name": "动漫设计",
+            "id": 40,
+            "is_color_enhance": true,
+            "poster": "https://yijian-painting-prod.cdn.bcebos.com/static/styles/style23.png",
+            "text": "经典动漫",
+            "value": ""
+        },
+        {
+            "default_guide_scale": 11,
+            "engine": "anygen_diffusion",
+            "group_name": "动漫设计",
+            "id": 42,
+            "is_color_enhance": false,
+            "poster": "https://yijian-painting-prod.cdn.bcebos.com/static/styles/42.jpg",
+            "text": "2.5D动漫",
+            "value": ""
+        },
+        {
+            "default_guide_scale": 7.5,
+            "engine": "protothing_diffusion",
+            "group_name": "动漫设计",
+            "id": 43,
+            "is_color_enhance": true,
+            "poster": "https://yijian-painting-prod.cdn.bcebos.com/static/styles/43.jpg",
+            "text": "二次元插画大师",
+            "value": ""
+        },
+        {
+            "default_guide_scale": 11,
+            "engine": "colorfulcocktail_diffusion",
+            "group_name": "动漫设计",
+            "id": 44,
+            "is_color_enhance": true,
+            "poster": "https://yijian-painting-prod.cdn.bcebos.com/static/styles/44.jpg",
+            "text": "二次元色彩大师",
+            "value": ""
+        },
+        {
+            "default_guide_scale": 7.5,
+            "engine": "dalcefo_diffusion",
+            "group_name": "动漫设计",
+            "id": 45,
+            "is_color_enhance": true,
+            "poster": "https://yijian-painting-prod.cdn.bcebos.com/static/styles/78.jpg",
+            "text": "平涂动漫",
+            "value": ""
+        },
+        {
+            "default_guide_scale": 7.5,
+            "engine": "old_cos_diffusion",
+            "group_name": "动漫设计",
+            "id": 46,
+            "is_color_enhance": true,
+            "poster": "https://yijian-painting-prod.cdn.bcebos.com/static/styles/81.jpg",
+            "text": "古早动漫",
+            "value": ""
+        },
+        {
+            "default_guide_scale": 7.5,
+            "engine": "colorful_diffusion",
+            "group_name": "动漫设计",
+            "id": 47,
+            "is_color_enhance": true,
+            "poster": "https://yijian-painting-prod.cdn.bcebos.com/static/styles/82.jpg",
+            "text": "彩粉动漫",
+            "value": ""
+        },
+        {
+            "default_guide_scale": 7.5,
+            "engine": "meina_diffusion",
+            "group_name": "动漫设计",
+            "id": 48,
+            "is_color_enhance": true,
+            "poster": "https://yijian-painting-prod.cdn.bcebos.com/static/styles/85.jpg",
+            "text": "2D写实",
+            "value": ""
+        },
+        {
+            "default_guide_scale": 7.5,
+            "engine": "best_colorful_diffusion",
+            "group_name": "动漫设计",
+            "id": 49,
+            "is_color_enhance": true,
+            "poster": "https://yijian-painting-prod.cdn.bcebos.com/static/styles/120.jpg",
+            "text": "彩粉动漫2",
+            "value": ""
+        },
+        {
+            "default_guide_scale": 7.5,
+            "engine": "flat_anime_diffusion",
+            "group_name": "动漫设计",
+            "id": 50,
+            "is_color_enhance": true,
+            "poster": "https://yijian-painting-prod.cdn.bcebos.com/static/styles/121.jpg",
+            "text": "平涂动漫2",
+            "value": ""
+        },
+        {
+            "default_guide_scale": 7.5,
+            "engine": "meiman_diffusion",
+            "group_name": "动漫设计",
+            "id": 51,
+            "is_color_enhance": true,
+            "poster": "https://yijian-painting-prod.cdn.bcebos.com/static/styles/122.jpg",
+            "text": "欧美动漫",
+            "value": ""
+        }
+    ],
+    "reality": [
+        {
+            "default_guide_scale": 7.5,
+            "engine": "Gf_style2_diffusion",
+            "group_name": "现实设计",
+            "id": 52,
+            "is_color_enhance": false,
+            "poster": "https://yijian-painting-prod.cdn.bcebos.com/static/styles/47.jpg",
+            "text": "国风-默认",
+            "value": ""
+        },
+        {
+            "default_guide_scale": 7.5,
+            "engine": "Gf_style2_diffusion",
+            "group_name": "现实设计",
+            "id": 53,
+            "is_color_enhance": false,
+            "poster": "https://yijian-painting-prod.cdn.bcebos.com/static/styles/63.jpg",
+            "text": "国风-彩色水墨",
+            "value": " <lora:Moxin_10:0.8>"
+        },
+        {
+            "default_guide_scale": 7.5,
+            "engine": "Gf_style2_diffusion",
+            "group_name": "现实设计",
+            "id": 54,
+            "is_color_enhance": false,
+            "poster": "https://yijian-painting-prod.cdn.bcebos.com/static/styles/64.jpg",
+            "text": "国风-留白水墨",
+            "value": " <lora:Moxin_Shukezouma11:0.7><lora:Moxin_10:0.8>"
+        },
+        {
+            "default_guide_scale": 7.5,
+            "engine": "Gf_style2_diffusion",
+            "group_name": "现实设计",
+            "id": 55,
+            "is_color_enhance": false,
+            "poster": "https://yijian-painting-prod.cdn.bcebos.com/static/styles/71.jpg",
+            "text": "国风-三国风",
+            "value": " <lora:Sanguo_v099:1>"
+        },
+        {
+            "default_guide_scale": 7.5,
+            "engine": "lora_cod_diffusion",
+            "group_name": "现实设计",
+            "id": 56,
+            "is_color_enhance": false,
+            "poster": "https://yijian-painting-prod.cdn.bcebos.com/static/styles/49.jpg",
+            "text": "Doll模型-默认",
+            "value": ""
+        },
+        {
+            "default_guide_scale": 7.5,
+            "engine": "lora_cod_diffusion",
+            "group_name": "现实设计",
+            "id": 57,
+            "is_color_enhance": false,
+            "poster": "https://yijian-painting-prod.cdn.bcebos.com/static/styles/50.jpg",
+            "text": "Doll模型-韩系女生1",
+            "value": " <lora:koreanDollLikeness_v10:0.66>"
+        },
+        {
+            "default_guide_scale": 7.5,
+            "engine": "lora_cod_diffusion",
+            "group_name": "现实设计",
+            "id": 58,
+            "is_color_enhance": false,
+            "poster": "https://yijian-painting-prod.cdn.bcebos.com/static/styles/52.jpg",
+            "text": "Doll模型-韩系女生2",
+            "value": " <lora:koreanDollLikeness_v15:0.66>"
+        },
+        {
+            "default_guide_scale": 7.5,
+            "engine": "lora_cod_diffusion",
+            "group_name": "现实设计",
+            "id": 59,
+            "is_color_enhance": false,
+            "poster": "https://yijian-painting-prod.cdn.bcebos.com/static/styles/56.jpg",
+            "text": "Doll模型-汉服风",
+            "value": " <lora:hanfu_v28:1><lora:shojovibe_v11:0.6>"
+        },
+        {
+            "default_guide_scale": 7.5,
+            "engine": "lora_cod_diffusion",
+            "group_name": "现实设计",
+            "id": 60,
+            "is_color_enhance": false,
+            "poster": "https://yijian-painting-prod.cdn.bcebos.com/static/styles/106.jpg",
+            "text": "Doll模型-汉服风(宋)",
+            "value": " <lora:japaneseDollLikeness_v10:0.3><lora:cuteGirlMix4_v10:0.7><lora:hanfu_v29:0.8>hanfu, song style outfits, song hanfu, "
+        },
+        {
+            "default_guide_scale": 7.5,
+            "engine": "lora_cod_diffusion",
+            "group_name": "现实设计",
+            "id": 61,
+            "is_color_enhance": false,
+            "poster": "https://yijian-painting-prod.cdn.bcebos.com/static/styles/106.jpg",
+            "text": "Doll模型-汉服风(宋)",
+            "value": " <lora:japaneseDollLikeness_v10:0.3><lora:cuteGirlMix4_v10:0.7><lora:hanfu_v29:0.8>hanfu, song style outfits, song hanfu, "
+        },
+        {
+            "default_guide_scale": 7.5,
+            "engine": "lora_cod_diffusion",
+            "group_name": "现实设计",
+            "id": 62,
+            "is_color_enhance": false,
+            "poster": "https://yijian-painting-prod.cdn.bcebos.com/static/styles/107.jpg",
+            "text": "Doll模型-汉服风(唐)",
+            "value": " <lora:japaneseDollLikeness_v10:0.3><lora:cuteGirlMix4_v10:0.7><lora:hanfu_v29:0.8>hanfu, tang style outfits, tang hanfu, "
+        },
+        {
+            "default_guide_scale": 7.5,
+            "engine": "lora_cod_diffusion",
+            "group_name": "现实设计",
+            "id": 63,
+            "is_color_enhance": false,
+            "poster": "https://yijian-painting-prod.cdn.bcebos.com/static/styles/108.jpg",
+            "text": "Doll模型-汉服风(明)",
+            "value": " <lora:japaneseDollLikeness_v10:0.3><lora:cuteGirlMix4_v10:0.7><lora:hanfu_v29:0.8>hanfu, ming style outfits, ming hanfu, "
+        },
+        {
+            "default_guide_scale": 7.5,
+            "engine": "lora_cod_diffusion",
+            "group_name": "现实设计",
+            "id": 64,
+            "is_color_enhance": false,
+            "poster": "https://yijian-painting-prod.cdn.bcebos.com/static/styles/109.jpg",
+            "text": "Doll模型-汉服风(汉)",
+            "value": " <lora:japaneseDollLikeness_v10:0.3><lora:cuteGirlMix4_v10:0.7><lora:hanfu_v29:0.8>hanfu, han style outfits, han hanfu, "
+        },
+        {
+            "default_guide_scale": 7.5,
+            "engine": "lora_cod_diffusion",
+            "group_name": "现实设计",
+            "id": 65,
+            "is_color_enhance": false,
+            "poster": "https://yijian-painting-prod.cdn.bcebos.com/static/styles/57.jpg",
+            "text": "Doll模型-时尚女生",
+            "value": " <lora:fashionGirl_v50:0.6>"
+        },
+        {
+            "default_guide_scale": 7.5,
+            "engine": "lora_cod_diffusion",
+            "group_name": "现实设计",
+            "id": 66,
+            "is_color_enhance": false,
+            "poster": "https://yijian-painting-prod.cdn.bcebos.com/static/styles/58.jpg",
+            "text": "Doll模型-可爱女生",
+            "value": " <lora:cuteGirlMix4_v10:0.5>"
+        },
+        {
+            "default_guide_scale": 7.5,
+            "engine": "lora_cod_diffusion",
+            "group_name": "现实设计",
+            "id": 67,
+            "is_color_enhance": false,
+            "poster": "https://yijian-painting-prod.cdn.bcebos.com/static/styles/104.jpg",
+            "text": "Doll模型-梦幻少女",
+            "value": " <lora:dreamyGirlsFace_dreamyFace:0.6>"
+        },
+        {
+            "default_guide_scale": 7.5,
+            "engine": "lora_cod_diffusion",
+            "group_name": "现实设计",
+            "id": 68,
+            "is_color_enhance": false,
+            "poster": "https://yijian-painting-prod.cdn.bcebos.com/static/styles/73.jpg",
+            "text": "Doll模型-铅笔裙",
+            "value": " <lora:hauteCouturePencil_v10:0.7><lora:koreanDollLikeness_v15:0.3>"
+        },
+        {
+            "default_guide_scale": 7.5,
+            "engine": "lora_cod_diffusion",
+            "group_name": "现实设计",
+            "id": 69,
+            "is_color_enhance": false,
+            "poster": "https://yijian-painting-prod.cdn.bcebos.com/static/styles/74.jpg",
+            "text": "Doll模型-旗袍",
+            "value": " <lora:qipao_8:0.6><lora:zhouzhou_zsyV10:0.4><lora:koreanDollLikeness_v15:0.4>"
+        },
+        {
+            "default_guide_scale": 7.5,
+            "engine": "lora_cod_diffusion",
+            "group_name": "现实设计",
+            "id": 70,
+            "is_color_enhance": false,
+            "poster": "https://yijian-painting-prod.cdn.bcebos.com/static/styles/77.jpg",
+            "text": "Doll模型-国风",
+            "value": " <lora:loraGuofeng2Lora_v20Lora:1.6>"
+        },
+        {
+            "default_guide_scale": 7.5,
+            "engine": "lora_cod_diffusion",
+            "group_name": "现实设计",
+            "id": 71,
+            "is_color_enhance": false,
+            "poster": "https://yijian-painting-prod.cdn.bcebos.com/static/styles/100.jpg",
+            "text": "Doll模型-正装少女",
+            "value": " <lora:recruitSuit_recsuitVer:1><lora:cuteGirlMix4_v10:0.4>"
+        },
+        {
+            "default_guide_scale": 7.5,
+            "engine": "lora_cod_diffusion",
+            "group_name": "现实设计",
+            "id": 72,
+            "is_color_enhance": false,
+            "poster": "https://yijian-painting-prod.cdn.bcebos.com/static/styles/111.jpg",
+            "text": "Doll模型-礼服新娘",
+            "value": " <lora:chineseGirlsInWeddingDressOrHakamaOrHanfuInMarvellousScene_v01:0.9>"
+        },
+        {
+            "default_guide_scale": 7.5,
+            "engine": "lucky_real_diffusion",
+            "group_name": "现实设计",
+            "id": 73,
+            "is_color_enhance": false,
+            "poster": "https://yijian-painting-prod.cdn.bcebos.com/static/styles/83.jpg",
+            "text": "新Doll模型-默认",
+            "value": ""
+        },
+        {
+            "default_guide_scale": 7.5,
+            "engine": "lucky_real_diffusion",
+            "group_name": "现实设计",
+            "id": 74,
+            "is_color_enhance": false,
+            "poster": "https://yijian-painting-prod.cdn.bcebos.com/static/styles/50.jpg",
+            "text": "新Doll模型-韩系女生1",
+            "value": " <lora:koreanDollLikeness_v10:0.66>"
+        },
+        {
+            "default_guide_scale": 7.5,
+            "engine": "lucky_real_diffusion",
+            "group_name": "现实设计",
+            "id": 75,
+            "is_color_enhance": false,
+            "poster": "https://yijian-painting-prod.cdn.bcebos.com/static/styles/52.jpg",
+            "text": "新Doll模型-韩系女生2",
+            "value": " <lora:koreanDollLikeness_v15:0.66>"
+        },
+        {
+            "default_guide_scale": 7.5,
+            "engine": "lucky_real_diffusion",
+            "group_name": "现实设计",
+            "id": 76,
+            "is_color_enhance": false,
+            "poster": "https://yijian-painting-prod.cdn.bcebos.com/static/styles/51.jpg",
+            "text": "新Doll模型-日系女生",
+            "value": " <lora:japaneseDollLikeness_v10:0.66>"
+        },
+        {
+            "default_guide_scale": 7.5,
+            "engine": "lucky_real_diffusion",
+            "group_name": "现实设计",
+            "id": 77,
+            "is_color_enhance": false,
+            "poster": "https://yijian-painting-prod.cdn.bcebos.com/static/styles/57.jpg",
+            "text": "新Doll模型-时尚女生",
+            "value": " <lora:fashionGirl_v50:0.5>"
+        },
+        {
+            "default_guide_scale": 7.5,
+            "engine": "lucky_real_diffusion",
+            "group_name": "现实设计",
+            "id": 78,
+            "is_color_enhance": false,
+            "poster": "https://yijian-painting-prod.cdn.bcebos.com/static/styles/84.jpg",
+            "text": "新Doll模型-乡村女生",
+            "value": " <lora:villageGirlCungu_v12:0.6>"
+        },
+        {
+            "default_guide_scale": 7.5,
+            "engine": "lucky_real_diffusion",
+            "group_name": "现实设计",
+            "id": 79,
+            "is_color_enhance": false,
+            "poster": "https://yijian-painting-prod.cdn.bcebos.com/static/styles/86.jpg",
+            "text": "新Doll模型-气质女生",
+            "value": " <lora:aiBeautyIthlinni_ithlinniV1:0.5>"
+        },
+        {
+            "default_guide_scale": 7.5,
+            "engine": "lucky_real_diffusion",
+            "group_name": "现实设计",
+            "id": 80,
+            "is_color_enhance": false,
+            "poster": "https://yijian-painting-prod.cdn.bcebos.com/static/styles/58.jpg",
+            "text": "新Doll模型-可爱女生",
+            "value": " <lora:cuteGirlMix4_v10:0.5>"
+        },
+        {
+            "default_guide_scale": 7.5,
+            "engine": "lucky_real_diffusion",
+            "group_name": "现实设计",
+            "id": 81,
+            "is_color_enhance": false,
+            "poster": "https://yijian-painting-prod.cdn.bcebos.com/static/styles/87.jpg",
+            "text": "新Doll模型-精致女生",
+            "value": " <lora:tifosemix_v1064s:0.6>"
+        },
+        {
+            "default_guide_scale": 7.5,
+            "engine": "lucky_real_diffusion",
+            "group_name": "现实设计",
+            "id": 82,
+            "is_color_enhance": false,
+            "poster": "https://yijian-painting-prod.cdn.bcebos.com/static/styles/65.jpg",
+            "text": "新Doll模型-美丽少女",
+            "value": " <lora:shojovibe_v11:0.6>"
+        },
+        {
+            "default_guide_scale": 7.5,
+            "engine": "lucky_real_diffusion",
+            "group_name": "现实设计",
+            "id": 83,
+            "is_color_enhance": false,
+            "poster": "https://yijian-painting-prod.cdn.bcebos.com/static/styles/100.jpg",
+            "text": "新Doll模型-正装少女",
+            "value": " <lora:recruitSuit_recsuitVer:1><lora:shojovibe_v11:0.7>"
+        },
+        {
+            "default_guide_scale": 7.5,
+            "engine": "lucky_real_diffusion",
+            "group_name": "现实设计",
+            "id": 84,
+            "is_color_enhance": false,
+            "poster": "https://yijian-painting-prod.cdn.bcebos.com/static/styles/104.jpg",
+            "text": "新Doll模型-梦幻少女",
+            "value": " <lora:dreamyGirlsFace_dreamyFace:0.6>"
+        },
+        {
+            "default_guide_scale": 7.5,
+            "engine": "lucky_real_diffusion",
+            "group_name": "现实设计",
+            "id": 85,
+            "is_color_enhance": false,
+            "poster": "https://yijian-painting-prod.cdn.bcebos.com/static/styles/73.jpg",
+            "text": "新Doll模型-铅笔裙",
+            "value": " <lora:hauteCouturePencil_v10:0.7><lora:koreanDollLikeness_v15:0.3>"
+        },
+        {
+            "default_guide_scale": 11,
+            "engine": "goodAsianGirlFaceV10_diffusion",
+            "group_name": "现实设计",
+            "id": 86,
+            "is_color_enhance": false,
+            "poster": "https://yijian-painting-prod.cdn.bcebos.com/static/styles/46.jpg",
+            "text": "真实人像",
+            "value": ""
+        },
+        {
+            "default_guide_scale": 7.5,
+            "engine": "photoreal_engine",
+            "group_name": "现实设计",
+            "id": 87,
+            "is_color_enhance": false,
+            "poster": "https://yijian-painting-prod.cdn.bcebos.com/static/styles/style27.png",
+            "text": "真实感照片",
+            "value": ""
+        },
+        {
+            "default_guide_scale": 7.5,
+            "engine": "pvc_diffusion",
+            "group_name": "现实设计",
+            "id": 88,
+            "is_color_enhance": false,
+            "poster": "https://yijian-painting-prod.cdn.bcebos.com/static/styles/123.jpg",
+            "text": "手办",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "登录",
+  "usingComponents": {
+    "u-divider": "../../uni_modules/vk-uview-ui/components/u-divider/u-divider",
+    "u-icon": "../../uni_modules/vk-uview-ui/components/u-icon/u-icon",
+    "weixin": "./components/weixin",
+    "mobile": "./components/mobile",
+    "mailbox": "./components/mailbox",
+    "update-user-info": "./components/update-user-info",
+    "bind-mobile": "./components/bind-mobile"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "l-textarea": "../../../../../../components/l-textarea/l-textarea"
+  }
+}

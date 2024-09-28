@@ -1,0 +1,1 @@
+import{y as s,s as c}from"./drawing.3efa226d.js";import{q as o}from"./entry.c7e0e7b4.js";const a=o({size:[],detail:{}}),e=o([]),i=()=>({getYjSdData:async()=>{try{a.value=await s()}catch(t){console.log("获取意间数据出现错误==>",t)}},yjData:a,getSdData:async()=>{try{e.value=await c()}catch(t){console.log("获取Sd数据出现错误==>",t)}},sdData:e});export{e as sdData,i as useConfigEffect,a as yjData};

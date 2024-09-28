@@ -1,0 +1,1 @@
+import{r as t}from"./index.0aa35fa2.js";function s(n){return t.post({url:"/channel.mnp_settings/setConfig",params:n})}function o(){return t.get({url:"/channel.mnp_settings/getConfig"})}function p(n){return t.post({url:"/channel.mnp_settings/uploadMnp",params:n,timeout:60*1e3})}export{o as g,s,p as u};

@@ -1,0 +1,1 @@
+<view class="mt-_bl_20rpx_br_"><view class="text-base font-medium mb-_bl_20rpx_br_">忽略的元素</view><u-input wx:if="{{b}}" u-i="a26ae16e-0" bind:__l="__l" bindupdateModelValue="{{a}}" u-p="{{b}}"></u-input></view>

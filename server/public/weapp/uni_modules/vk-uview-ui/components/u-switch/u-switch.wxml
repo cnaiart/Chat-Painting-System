@@ -1,0 +1,1 @@
+<view class="{{['u-switch','data-v-c0047c5a',d,e]}}" bindtap="{{f}}" style="{{g}}"><view class="u-switch__node node-class data-v-c0047c5a" style="{{'width:' + b + ';' + ('height:' + c)}}"><u-loading wx:if="{{a}}" class="u-switch__loading data-v-c0047c5a" u-i="c0047c5a-0" bind:__l="__l" u-p="{{a}}"/></view></view>

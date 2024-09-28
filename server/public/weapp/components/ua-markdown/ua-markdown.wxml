@@ -1,0 +1,1 @@
+<view class="ua__markdown"><mp-html wx:if="{{b}}" bindlinktap="{{a}}" u-i="fb191894-0" bind:__l="__l" u-p="{{b}}"></mp-html></view>

@@ -1,0 +1,1 @@
+<view class="in-progress"><view class="flex justify-center items-center"><u-loading wx:if="{{a}}" u-i="eec43ece-0" bind:__l="__l" u-p="{{a}}"></u-loading></view><view class="text-xl mt-_bl_20px_br_"> 正在生成中 </view><view class="mt-_bl_10px_br_ text-base text-_bl__h_999999_br_ w-_bl_260px_br_ h-_bl_60px_br_"> 绘图预计花费30~60s时间，可离开后再回来查看效果喔～ </view></view>

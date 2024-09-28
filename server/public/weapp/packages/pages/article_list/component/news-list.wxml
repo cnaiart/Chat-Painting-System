@@ -1,0 +1,1 @@
+<z-paging wx:if="{{f}}" class="r" u-s="{{['d']}}" u-r="paging" data-key="{{c}}" bindquery="{{d}}" u-i="55985cc6-0" bind:__l="__l" bindupdateModelValue="{{e}}" u-p="{{f}}"><block wx:for="{{a}}" wx:for-item="newsItem" wx:key="c"><news-card wx:if="{{newsItem.b}}" u-i="{{newsItem.a}}" bind:__l="__l" u-p="{{newsItem.b}}"></news-card></block></z-paging>

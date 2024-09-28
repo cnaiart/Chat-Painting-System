@@ -1,0 +1,1 @@
+<view class="widget-textarea data-v-801ecf90"><u-input wx:if="{{b}}" class="w-full data-v-801ecf90" u-i="801ecf90-0" bind:__l="__l" bindupdateModelValue="{{a}}" u-p="{{b}}"></u-input><view wx:if="{{c}}" class="text-xs bg-page text-muted absolute right-_bl_20rpx_br_ bottom-_bl_10rpx_br_ leading-_bl_28rpx_br_ data-v-801ecf90">{{d}} / {{e}}</view></view>

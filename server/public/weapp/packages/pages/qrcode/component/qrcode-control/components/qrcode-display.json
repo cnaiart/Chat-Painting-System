@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "u-slider": "../../../../../../uni_modules/vk-uview-ui/components/u-slider/u-slider"
+  }
+}

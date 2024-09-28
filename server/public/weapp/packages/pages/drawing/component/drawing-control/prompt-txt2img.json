@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "u-loading": "../../../../../uni_modules/vk-uview-ui/components/u-loading/u-loading",
+    "u-icon": "../../../../../uni_modules/vk-uview-ui/components/u-icon/u-icon",
+    "l-textarea": "../../../../../components/l-textarea/l-textarea"
+  }
+}

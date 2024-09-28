@@ -1,0 +1,10 @@
+{
+  "component": true,
+  "usingComponents": {
+    "u-image": "../../../uni_modules/vk-uview-ui/components/u-image/u-image",
+    "loading": "../../loading/loading",
+    "u-icon": "../../../uni_modules/vk-uview-ui/components/u-icon/u-icon",
+    "guided-popup": "../../guided-popup/guided-popup",
+    "u-popup": "../../../uni_modules/vk-uview-ui/components/u-popup/u-popup"
+  }
+}

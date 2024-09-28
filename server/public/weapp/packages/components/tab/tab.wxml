@@ -1,0 +1,1 @@
+<view class="{{[b&&'active',c&&'inactive','tab']}}" style="{{d}}"><slot wx:if="{{a}}"></slot></view>

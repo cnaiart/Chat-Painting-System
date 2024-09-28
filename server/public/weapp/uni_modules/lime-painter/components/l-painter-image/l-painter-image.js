@@ -1,0 +1,1 @@
+"use strict";const e=require("../common/relation.js"),r=require("../../../../common/vendor.js"),n={name:"lime-painter-image",mixins:[e.children("painter")],props:{css:[String,Object],src:String},data:()=>({type:"image",el:{css:{},src:null}})};const t=r._export_sfc(n,[["render",function(e,r,n,t,i,s){return{}}]]);wx.createComponent(t);

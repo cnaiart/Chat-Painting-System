@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "技能大全",
+  "disableScroll": true,
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "u-search": "../../uni_modules/vk-uview-ui/components/u-search/u-search",
+    "u-icon": "../../uni_modules/vk-uview-ui/components/u-icon/u-icon",
+    "router-navigate": "../../node-modules/uniapp-router-next/components/router-navigate/router-navigate",
+    "u-empty": "../../uni_modules/vk-uview-ui/components/u-empty/u-empty",
+    "page-status": "../../components/page-status/page-status",
+    "tabbar": "../../components/tabbar/tabbar"
+  }
+}

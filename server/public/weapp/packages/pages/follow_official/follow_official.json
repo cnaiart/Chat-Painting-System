@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "关注公众号",
+  "usingComponents": {
+    "u-icon": "../../../uni_modules/vk-uview-ui/components/u-icon/u-icon",
+    "tabbar": "../../../components/tabbar/tabbar"
+  }
+}

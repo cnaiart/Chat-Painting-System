@@ -1,0 +1,1 @@
+<view wx:if="{{a}}" class="dropdown-mask data-v-e8b99fa0" bindtap="{{b}}"></view><view class="dropdown data-v-e8b99fa0"><view class="data-v-e8b99fa0" bindtap="{{c}}"><slot></slot></view><view hidden="{{!d}}" class="{{['dropdown-menu','data-v-e8b99fa0',e]}}" bindtap="{{f}}"><slot name="menu"></slot></view></view>

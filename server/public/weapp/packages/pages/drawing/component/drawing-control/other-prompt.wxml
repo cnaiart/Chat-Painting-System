@@ -1,0 +1,1 @@
+<view class="mt-_bl_20rpx_br_"><view class="text-base font-medium mb-_bl_20rpx_br_">其它参数</view><u-input wx:if="{{b}}" u-i="71f9a844-0" bind:__l="__l" bindupdateModelValue="{{a}}" u-p="{{b}}"></u-input></view>

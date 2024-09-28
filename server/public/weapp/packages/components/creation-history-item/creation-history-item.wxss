@@ -1,0 +1,1 @@
+.create-record-item{border-radius:20rpx;padding:30rpx;background-color:var(--color-white, #ffffff)}.line-clamp-5{text-overflow:ellipsis;overflow:hidden;display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:5}

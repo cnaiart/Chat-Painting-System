@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "绘画广场",
+  "usingComponents": {
+    "u-search": "../../../uni_modules/vk-uview-ui/components/u-search/u-search",
+    "u-tabs": "../../../uni_modules/vk-uview-ui/components/u-tabs/u-tabs",
+    "tabbar": "../../../components/tabbar/tabbar",
+    "square-list": "./component/lists",
+    "preview": "./component/preview",
+    "poster": "./component/poster"
+  }
+}

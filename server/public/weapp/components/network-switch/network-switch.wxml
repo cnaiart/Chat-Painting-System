@@ -1,0 +1,1 @@
+<view wx:if="{{a}}" class="flex items-center text-sm"><u-switch wx:if="{{d}}" bindchange="{{b}}" u-i="bb882c18-0" bind:__l="__l" bindupdateModelValue="{{c}}" u-p="{{d}}"></u-switch><label class="ml-_bl_10rpx_br_">联网模式</label><view class="flex px-_bl_10rpx_br_" bindtap="{{f}}"><u-icon wx:if="{{e}}" u-i="bb882c18-1" bind:__l="__l" u-p="{{e}}"/></view></view>

@@ -1,0 +1,1 @@
+<view class="text-base font-bold mt-_bl_40rpx_br_ data-v-7eee4e93"><label class="data-v-7eee4e93">图片质量</label></view><view class="mt-_bl_20rpx_br_ data-v-7eee4e93"><view wx:for="{{a}}" wx:for-item="item" wx:key="b" class="{{['size-type-option','data-v-7eee4e93',item.c&&'size-type-option__active']}}" bindtap="{{item.d}}">{{item.a}}</view></view>

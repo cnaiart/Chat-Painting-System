@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "u-tag": "../../../../../../uni_modules/vk-uview-ui/components/u-tag/u-tag"
+  }
+}

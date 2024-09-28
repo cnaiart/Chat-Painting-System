@@ -1,0 +1,16 @@
+{
+  "navigationBarTitleText": "充值中心",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "u-image": "../../../uni_modules/vk-uview-ui/components/u-image/u-image",
+    "price": "../../../components/price/price",
+    "u-button": "../../../uni_modules/vk-uview-ui/components/u-button/u-button",
+    "u-empty": "../../../uni_modules/vk-uview-ui/components/u-empty/u-empty",
+    "payment": "../../../components/payment/payment",
+    "u-icon": "../../../uni_modules/vk-uview-ui/components/u-icon/u-icon",
+    "router-navigate": "../../../node-modules/uniapp-router-next/components/router-navigate/router-navigate",
+    "u-popup": "../../../uni_modules/vk-uview-ui/components/u-popup/u-popup",
+    "page-status": "../../../components/page-status/page-status",
+    "tabbar": "../../../components/tabbar/tabbar"
+  }
+}

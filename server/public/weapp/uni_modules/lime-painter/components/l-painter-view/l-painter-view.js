@@ -1,0 +1,1 @@
+"use strict";const e=require("../common/relation.js"),n=require("../../../../common/vendor.js"),r={name:"lime-painter-view",mixins:[e.children("painter"),e.parent("painter")],props:{css:[String,Object]},data:()=>({type:"view",el:{css:{},views:[]}}),mounted(){}};const t=n._export_sfc(r,[["render",function(e,n,r,t,i,o){return{}}]]);wx.createComponent(t);
