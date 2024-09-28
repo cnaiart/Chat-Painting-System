@@ -1,0 +1,1 @@
+export enum QrcodeModeEnum {   MEWX = 'mewx',   ZHISHUYUN = 'zhishuyun_qrcode'}
