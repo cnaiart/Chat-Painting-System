@@ -2,10 +2,10 @@
 branches: {
   }
 fileChange:
-  /auto_install.json:
-    newFile: !uuid '5c8606013ea9d71a6573bf1c19d764c1a76a1a63'
+  /nginx.rewrite:
+    newFile: !uuid 'b8c52753275c65746e3afbfc22fb24ebddd08a2f'
     oldFile: null
-gitCommitId: !uuid '3b82dde95efd7a65523e993ad747452b52d87c79'
+gitCommitId: !uuid '983f54efbc40587ff7f85df943914688bb60fe74'
 renames: {
   }
-revisionId: 8
+revisionId: 9
