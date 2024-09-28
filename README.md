@@ -15,9 +15,9 @@
 <a href="https://www.qiniu.com/"><img src="https://img.shields.io/badge/七牛云-OSS-07beff"></a>
 </p>
 </p>
-<div align="center">
+
  ![输入图片说明](server/public/upgrade/.png)
-</div>
+
  <br>
 
 ##  👀体验后台
