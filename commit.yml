@@ -2,10 +2,46 @@
 branches: {
   }
 fileChange:
-  /nginx.rewrite:
-    newFile: !uuid 'b8c52753275c65746e3afbfc22fb24ebddd08a2f'
+  /docker:
+    newFile: !uuid 'f5d0374abb43d7d7b0a495c20fe73f7d12a72ae8'
     oldFile: null
-gitCommitId: !uuid '983f54efbc40587ff7f85df943914688bb60fe74'
+  /docker/.gitignore:
+    newFile: !uuid 'b77a92321078ea0a08c32188f68c719f5b18f192'
+    oldFile: null
+  /docker/config:
+    newFile: !uuid '4ce866da1ad0d0139fa250f80e0456f3acfbaaaa'
+    oldFile: null
+  /docker/config/mysql:
+    newFile: !uuid '161553bb8c08f0390f2a6ff092db4e43bff7c193'
+    oldFile: null
+  /docker/config/mysql/mysqld.cnf:
+    newFile: !uuid '18fabc593880bfa8f4d52fd138eb9f159e967e87'
+    oldFile: null
+  /docker/config/nginx:
+    newFile: !uuid '1f7a4a326609c07bd12b03da1f0ed604ba560fa5'
+    oldFile: null
+  /docker/config/nginx/conf.d:
+    newFile: !uuid 'e3ffa40d028b541e6a32171e7193128e8faced29'
+    oldFile: null
+  /docker/config/nginx/conf.d/www.chat.host.conf:
+    newFile: !uuid '1f96a28ad4253c1e330247915490c7a09b7ceeb1'
+    oldFile: null
+  /docker/config/nginx/nginx.conf:
+    newFile: !uuid '6fb8ec4ce701a1a3c30ca1cba076814b156ec857'
+    oldFile: null
+  /docker/config/php:
+    newFile: !uuid 'bb3aae1f473b4e50a8aef8329f17c669161c8f66'
+    oldFile: null
+  /docker/config/php/ini:
+    newFile: !uuid '3b502c98a981fa7193d70660e524aeeb41e5d69a'
+    oldFile: null
+  /docker/config/php/ini/docker-php80-ext-swoole-compiler.ini:
+    newFile: !uuid '0f89140e6c43d065bcd9f2bccdda611e44f9b199'
+    oldFile: null
+  /docker/docker-compose.yml:
+    newFile: !uuid '2b5a29e6c0628f96c23315d07a2505c0693b3c86'
+    oldFile: null
+gitCommitId: !uuid '3d715cc196b33c441dd84b78e1962a5f14d68a6c'
 renames: {
   }
-revisionId: 9
+revisionId: 10
