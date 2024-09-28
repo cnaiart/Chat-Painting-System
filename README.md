@@ -22,16 +22,16 @@
 
 ##  👀体验后台
 ### 管理后台
-**地址：https://php.likeadmin.cn/admin <br>
+**地址：
 账号：admin 密码：123456**
 ### 微信小程序前台
-<img  width="40%"  src="https://md.likeshop.cn/server/index.php?s=/api/attachment/visitFile&sign=1d806dc4d79c267737e9b5fa79835e59" /><br>
+
 ### 手机端网页前台
-https://php.likeadmin.cn/mobile
+https://connew.cn
 ### PC（电脑）端网页前台
-https://php.likeadmin.cn/pc/
+https://connew.cn
 ### 开发文档
-地址：[https://www.likeadmin.cn](https://www.likeadmin.cn "https://www.likeadmin.cn")
+地址：
 
 ## 👨‍💻‍简介
 ChatAI-聊天绘画系统「PHP源码版」，基于前后端分离架构以及Vue3、uni-app、ThinkPHP6.x、PHP8.0技术栈开发，包含PC端、H5端、小程序端、APP端。ChatAI聚合对接国内外知名主流大语言模型接口及中转平台，如ChatGLM、讯飞星火、文心一言、GPT3.5、GPT4.0、API2D、知数云。并且聚合对接MJ绘画、SD绘画、意间AI等多种绘画通道，实现了AI对话+AI绘画的融合使用。系统功能包括：AI智能对话、AI创作模型、AI绘画、分销推广、会员套餐、充值套餐、卡密兑换、模型计费、会员回流优惠券等丰富的营销功能。部分功能开发中，欢迎前往体验~。
