@@ -1,0 +1,455 @@
+{
+    "pages": [
+        {
+            "path": "pages/index/index",
+            "style": {
+                "navigationBarTitleText": "首页",
+                "enablePullDownRefresh": false
+            },
+            "meta": {
+                "share": true
+            }
+        },
+        {
+            "path": "pages/ai_creation/ai_creation",
+            "style": {
+                "navigationBarTitleText": "AI创作",
+                "enablePullDownRefresh": true
+            },
+            "meta": {
+                "share": true
+            }
+        },
+        {
+            "path": "pages/skills/skills",
+            "style": {
+                "navigationBarTitleText": "技能大全",
+                "disableScroll": true,
+                "enablePullDownRefresh": true
+            },
+            "meta": {
+                "share": true
+            }
+        },
+
+        {
+            "path": "pages/app/app",
+            "style": {
+                "navigationBarTitleText": "应用",
+                "enablePullDownRefresh": true
+            },
+            "meta": {
+                "share": true
+            }
+        },
+
+        {
+            "path": "pages/empty/empty"
+        },
+        {
+            "path": "pages/user/user",
+            "style": {
+                "navigationBarTitleText": "个人中心",
+                "navigationStyle": "custom",
+                "enablePullDownRefresh": true
+            },
+            "meta": {
+                "isTab": true
+            }
+        },
+        {
+            "path": "pages/webview/webview"
+        },
+        {
+            "path": "pages/login/login",
+            "style": {
+                "navigationBarTitleText": "登录"
+            },
+            "meta": {
+                "white": true
+            }
+        },
+        // #ifdef H5
+        {
+            "path": "pages/pc_login/pc_login",
+            "style": {
+                "navigationBarTitleText": "扫码登录"
+            },
+            "meta": {
+                "white": true
+            }
+        },
+        // #endif
+        {
+            "path": "uni_modules/vk-uview-ui/components/u-avatar-cropper/u-avatar-cropper",
+            "style": {
+                "navigationBarTitleText": "头像裁剪",
+                "navigationBarBackgroundColor": "#000000"
+            }
+        }
+    ],
+
+    "subPackages": [
+        {
+            "root": "packages",
+            "pages": [
+                {
+                    "path": "pages/square/square",
+                    "style": {
+                        "navigationBarTitleText": "绘画广场"
+                    },
+                    "meta": {
+                        "share": true
+                    }
+                },
+                {
+                    "path": "pages/drawing/drawing",
+                    "style": {
+                        "navigationBarTitleText": "AI绘图",
+                        "enablePullDownRefresh": false,
+                        "disableScroll": true
+                    },
+                    "meta": {
+                        "share": true
+                    }
+                },
+                {
+                    "path": "pages/customer_service/customer_service",
+                    "style": {
+                        "navigationBarTitleText": "联系客服",
+                        "enablePullDownRefresh": true
+                    }
+                },
+                {
+                    "path": "pages/user_set/user_set",
+                    "style": {
+                        "navigationBarTitleText": "用户设置"
+                    },
+                    "meta": {
+                        "auth": true
+                    }
+                },
+                {
+                    "path": "pages/follow_official/follow_official",
+                    "style": {
+                        "navigationBarTitleText": "关注公众号"
+                    }
+                },
+                {
+                    "path": "pages/task_center/task_center",
+                    "style": {
+                        "navigationBarTitleText": "任务中心",
+                        "enablePullDownRefresh": true
+                    },
+                    "meta": {
+                        "auth": true,
+                        "share": true
+                    }
+                },
+                {
+                    "path": "pages/collection/collection",
+                    "style": {
+                        "navigationBarTitleText": "我的收藏"
+                    },
+                    "meta": {
+                        "auth": true
+                    }
+                },
+                {
+                    "path": "pages/chat/chat",
+                    "style": {
+                        "navigationBarTitleText": "",
+                        "enablePullDownRefresh": false
+                    },
+                    "meta": {
+                        "auth": true,
+                        "share": true
+                    }
+                },
+                {
+                    "path": "pages/as_us/as_us",
+                    "style": {
+                        "navigationBarTitleText": "关于我们"
+                    }
+                },
+                {
+                    "path": "pages/agreement/agreement",
+                    "style": {
+                        "navigationBarTitleText": "协议"
+                    }
+                },
+                {
+                    "path": "pages/404/404",
+                    "style": {
+                        "navigationBarTitleText": "404"
+                    },
+                    "name": "404",
+                    "meta": {
+                        "white": true
+                    }
+                },
+                {
+                    "path": "pages/register/register",
+                    "style": {
+                        "navigationBarTitleText": "注册"
+                    },
+                    "meta": {
+                        "white": true
+                    }
+                },
+                {
+                    "path": "pages/change_password/change_password",
+                    "style": {
+                        "navigationBarTitleText": "修改密码"
+                    },
+                    "meta": {
+                        "white": true
+                    }
+                },
+                {
+                    "path": "pages/forget_pwd/forget_pwd",
+                    "style": {
+                        "navigationBarTitleText": "忘记密码"
+                    },
+                    "meta": {
+                        "white": true
+                    }
+                },
+                {
+                    "path": "pages/open_vip/open_vip",
+                    "style": {
+                        "navigationBarTitleText": "开通会员",
+                        "navigationStyle": "custom"
+                    },
+                    "meta": {
+                        "auth": true
+                    }
+                },
+                {
+                    "path": "pages/feedback/feedback",
+                    "style": {
+                        "navigationBarTitleText": "意见反馈"
+                    },
+                    "meta": {
+                        "auth": true
+                    }
+                },
+                {
+                    "path": "pages/promotion_center/promotion_center",
+                    "style": {
+                        "navigationBarTitleText": "推广中心",
+                        "enablePullDownRefresh": true
+                    },
+                    "meta": {
+                        "auth": true
+                    }
+                },
+                {
+                    "path": "pages/withdraw/withdraw",
+                    "style": {
+                        "navigationBarTitleText": "收益提现"
+                    },
+                    "meta": {
+                        "auth": true
+                    }
+                },
+                {
+                    "path": "pages/withdraw_record/withdraw_record",
+                    "style": {
+                        "navigationBarTitleText": "提现记录"
+                    },
+                    "meta": {
+                        "auth": true
+                    }
+                },
+                {
+                    "path": "pages/distribution_order/distribution_order",
+                    "style": {
+                        "navigationBarTitleText": "分销订单"
+                    },
+                    "meta": {
+                        "auth": true
+                    }
+                },
+                {
+                    "path": "pages/earnings_detail/earnings_detail",
+                    "style": {
+                        "navigationBarTitleText": "佣金明细"
+                    },
+                    "meta": {
+                        "auth": true
+                    }
+                },
+                {
+                    "path": "pages/team_fans/team_fans",
+                    "style": {
+                        "navigationBarTitleText": "团队粉丝"
+                    },
+                    "meta": {
+                        "auth": true
+                    }
+                },
+                {
+                    "path": "pages/enlarge_user/enlarge_user",
+                    "style": {
+                        "navigationBarTitleText": "推广的用户"
+                    },
+                    "meta": {
+                        "auth": true
+                    }
+                },
+                {
+                    "path": "pages/invite_poster/invite_poster",
+                    "style": {
+                        "navigationBarTitleText": "邀请海报",
+                        "enablePullDownRefresh": true
+                    },
+                    "meta": {
+                        "auth": true
+                    }
+                },
+                {
+                    "path": "pages/cancelaccount/cancelaccount",
+                    "style": {
+                        "navigationBarTitleText": "注销账号"
+                    },
+                    "meta": {
+                        "auth": true
+                    }
+                },
+                {
+                    "path": "pages/article_list/article_list",
+                    "style": {
+                        "navigationBarTitleText": "资讯"
+                    },
+                    "meta": {
+                        "auth": false,
+                        "share": true
+                    }
+                },
+                {
+                    "path": "pages/article_detail/article_detail",
+                    "style": {
+                        "navigationBarTitleText": "资讯详情"
+                    },
+                    "meta": {
+                        "auth": true,
+                        "share": true
+                    }
+                },
+                {
+                    "path": "pages/create/create",
+                    "style": {
+                        "navigationBarTitleText": "创作"
+                    },
+                    "meta": {
+                        "auth": true,
+                        "share": true
+                    }
+                },
+                {
+                    "path": "pages/create_history/create_history",
+                    "style": {
+                        "navigationBarTitleText": "创作历史"
+                    },
+                    "meta": {
+                        "auth": true,
+                        "share": false
+                    }
+                },
+                {
+                    "path": "pages/recharge/recharge",
+                    "style": {
+                        "navigationBarTitleText": "充值中心",
+                        "enablePullDownRefresh": true
+                    },
+                    "meta": {
+                        "auth": true,
+                        "share": false
+                    }
+                },
+                {
+                    "path": "pages/redeem_code/redeem_code",
+                    "style": {
+                        "navigationBarTitleText": "卡密兑换"
+                    },
+                    "meta": {
+                        "auth": true,
+                        "share": false
+                    }
+                },
+                {
+                    "path": "pages/mind_map/mind_map",
+                    "style": {
+                        "navigationBarTitleText": "思维导图"
+                    },
+                    "meta": {
+                        "share": false
+                    }
+                },
+                // #ifdef H5
+                {
+                    "path": "pages/mind_map/webview",
+                    "style": {
+                        "navigationBarTitleText": "思维导图"
+                    },
+                    "meta": {
+                        "share": false,
+                        "webview": true
+                    }
+                },
+                // #endif
+                {
+                    "path": "pages/qrcode/qrcode",
+                    "style": {
+                        "navigationBarTitleText": "艺术二维码"
+                    },
+                    "meta": {
+                        "share": false,
+                        "auth": false
+                    }
+                }
+            ]
+        }
+    ],
+    "globalStyle": {
+        "navigationBarTextStyle": "black",
+        "navigationBarTitleText": "",
+        "navigationBarBackgroundColor": "#ffffff",
+        "backgroundColor": "#F8F8F8",
+        "h5": {
+            "navigationStyle": "custom"
+        }
+    },
+    "tabBar": {
+        "list": [
+            {
+                "pagePath": "pages/index/index",
+                "text": "首页"
+            },
+            {
+                "pagePath": "pages/ai_creation/ai_creation",
+                "text": "创作"
+            },
+            {
+                "pagePath": "pages/skills/skills",
+                "text": "技能"
+            },
+            {
+                "pagePath": "pages/app/app",
+                "text": "应用"
+            },
+            {
+                "pagePath": "pages/user/user",
+                "text": "我的"
+            }
+        ]
+    },
+    "easycom": {
+        "custom": {
+            "router-navigate": "uniapp-router-next/components/router-navigate/router-navigate.vue",
+            "^(?!z-paging-refresh|z-paging-load-more)z-paging(.*)": "z-paging/components/z-paging$1/z-paging$1.vue",
+            "^w-(.*)": "@/components/widgets/$1/$1.vue"
+        }
+    }
+}
