@@ -16,7 +16,7 @@
 </p>
 </p>
 <div align="center">
-  <img  width="80%"  src="![输入图片说明](1.png)" /><br>
+ ![输入图片说明](server/public/upgrade/.png)
 </div>
  <br>
 
