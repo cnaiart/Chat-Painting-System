@@ -60,18 +60,17 @@ PC端前台使用Nuxt.js，支持服务器端渲染(SSR)，对SEO友好。
 ### 🛠️ 代码生成器
 一键生成前后端业务代码，大大提示开发效率。
 ### 🖥️界面预览
-![](https://md.likeshop.cn/server/index.php?s=/api/attachment/visitFile&sign=c8f9673f87634d8a2f7f927fb4beff26) <br>
-![](https://md.likeshop.cn/server/index.php?s=/api/attachment/visitFile&sign=9cf02b831e49d6a411bafbc4d79f51d4) <br>
-![](https://md.likeshop.cn/server/index.php?s=/api/attachment/visitFile&sign=e22d40bd4927e5188d2ab6e023728945) <br>
-![](https://md.likeshop.cn/server/index.php?s=/api/attachment/visitFile&sign=818d843fb9cba396226e32dad1a58f3c) <br>
-![](https://md.likeshop.cn/server/index.php?s=/api/attachment/visitFile&sign=194ab31919cd4dd619e6c453d7a44304) <br>
-![](https://md.likeshop.cn/server/index.php?s=/api/attachment/visitFile&sign=f6770e2a8069d7b6ea3d83b91204b9d6) <br>
+![](https://chat.chatmoney.cn/uploads/images/20240430/20240430164458ab8980064.png) <br>
+![](https://chat.chatmoney.cn/uploads/images/20240430/202404301644582c1582002.png) <br>
+![](https://chat.chatmoney.cn/uploads/images/20240430/20240430164458b4bf16155.png) <br>
+![](https://chat.chatmoney.cn/uploads/images/20240404/2024040412543798e362685.png) <br>
+![](https://chat.chatmoney.cn/uploads/images/20240404/20240404125437c60bf6618.png) <br>
+
 <br>
 ### 📱手机端前台界面
 <center class="half">
-![输入图片说明](server/public/static/aicz.png)
-<img  width="30%"  src="https://md.likeshop.cn/server/index.php?s=/api/attachment/visitFile&sign=73adbdb91ff5c43ca3e694a99effae7a" />  
-<img  width="30%"  src=" " />
+<img  width="30%"  src="https://server.chatmoney.cn/uploads/images/202308311748550b3108737.png" />  
+<img  width="30%"  src="https://server.chatmoney.cn/uploads/images/20230831174855aea056439.png" />
 </center> <br>
 
 ### 🖥️PC端前台界面
