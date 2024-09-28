@@ -21,7 +21,7 @@
 
 
 ### 前台
-![输入图片说明](web.png)
+
  <br>
 
 ##  👀体验后台
@@ -69,8 +69,10 @@ PC端前台使用Nuxt.js，支持服务器端渲染(SSR)，对SEO友好。
 <br>
 ### 📱手机端前台界面
 <center class="half">
-<img  width="30%"  src="https://md.likeshop.cn/server/index.php?s=/api/attachment/visitFile&sign=2dbac190afadfb6650a04c8af44980e1" />  <img  width="30%"  src="https://md.likeshop.cn/server/index.php?s=/api/attachment/visitFile&sign=73adbdb91ff5c43ca3e694a99effae7a" />  <img  width="30%"  src="https://md.likeshop.cn/server/index.php?s=/api/attachment/visitFile&sign=55b51eaebd7d696f96ccbf60d4694368" />
+![输入图片说明](server/public/static/aicz.png)
+<img  width="30%"  src="https://md.likeshop.cn/server/index.php?s=/api/attachment/visitFile&sign=73adbdb91ff5c43ca3e694a99effae7a" />  
+<img  width="30%"  src=" " />
 </center> <br>
 
 ### 🖥️PC端前台界面
-![](https://md.likeshop.cn/server/index.php?s=/api/attachment/visitFile&sign=479257a7d709401147f17c9e1d7eb0fd)
+![](https://chat.chatmoney.cn/uploads/images/20240404/20240404125437c60bf6618.png)
