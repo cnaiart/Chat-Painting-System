@@ -32,11 +32,14 @@
 ### 微信小程序前台
 
 ### 手机端网页前台
-https://connew.cn
+https://www.cnai.art
+https://cnai.art
+https://www.urlnet.cn
+
 ### PC（电脑）端网页前台
-https://connew.cn
+[https://connew.cn](https://www.cnai.art)
 ### 开发文档
-地址：
+地址：https://doc.artaigc.cn/
 
 #### 🔥🔥系统为商业授权后才可使用
 
